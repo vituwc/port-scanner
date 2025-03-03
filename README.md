@@ -1,7 +1,3 @@
-Here’s a README for your Python port scanner:
-
----
-
 # Python Port Scanner
 
 This is a simple, multi-threaded TCP and UDP port scanner written in Python. It is designed to check the availability of open ports on a remote host and retrieve service banners for TCP services.
@@ -70,7 +66,3 @@ This project is based on tutorials and concepts from the following resources:
 ## License
 
 This project is open-source and available under the MIT License.
-
----
-
-Feel free to modify it as needed! This README explains the purpose of the script, its usage, and how it works, while also giving credit to the sources you used.
